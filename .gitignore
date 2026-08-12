@@ -1,0 +1,9 @@
+# Runtime data and database
+/data/
+
+# Local environment secrets
+.env
+
+# OS/editor artifacts
+.DS_Store
+Thumbs.db
